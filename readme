@@ -1,3 +1,7 @@
+NB: Professor Benson, I was unable to submit lab6 and lab7 to canvas, here are the links to them:
+https://github.com/dmitriykcsun/lab6cs322
+https://github.com/dmitriykcsun/lab7cs322
+
 This program, catcher, catches signals that are defined by the command line arguments, ex: ./catcher USR1 TERM HUP. The program will exit successfully on 3 TERM signals if TERM is an argument, otherwise the program must be killed by another signal. 
 
 This program works to the specification outlined in Lab3.
